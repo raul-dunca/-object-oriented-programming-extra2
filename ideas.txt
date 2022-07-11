@@ -1,0 +1,3 @@
+capra;accepted;Mark;3
+cool;proposed;Raul;1
+dope;proposed;Mark;2
